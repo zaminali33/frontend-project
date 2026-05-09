@@ -1,7 +1,7 @@
 # My Portfolio Website
 
 Assalam-o-Alaikum! My name is **Zamin Ali**. I am a Computer Science student at **FUUAST**. 
-This is my personal portfolio website built using **HTML** and **CSS**.
+This is a  portfolio website built using **HTML** and **CSS**.
 
 ## Features
 - Personal Information & Intro
